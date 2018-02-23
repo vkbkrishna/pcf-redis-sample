@@ -1,0 +1,8 @@
+---
+applications:
+- name: cf-redis-sample
+  memory: 1G
+  random-route: true
+  path: target/cf-redis-sample-0.0.1-SNAPSHOT.jar
+  services:
+  # - SpringEmpRedis

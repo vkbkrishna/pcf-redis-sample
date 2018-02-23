@@ -1,0 +1,20 @@
+[
+	{
+		"_class": "com.bala.cf.cfredissample.domain.Employee",
+		"id" : "E101",
+		"firstName" : "John",
+		"lastName" : "Doe"
+	},
+	{
+		"_class": "com.bala.cf.cfredissample.domain.Employee",
+		"id" : "E102",
+		"firstName" : "Jane",
+		"lastName" : "Smith"
+	},
+	{
+		"_class": "com.bala.cf.cfredissample.domain.Employee",
+		"id" : "E103",
+		"firstName" : "Bob",
+		"lastName" : "Evans"
+	}
+]
